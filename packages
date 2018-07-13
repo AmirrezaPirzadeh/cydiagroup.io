@@ -1,0 +1,13 @@
+Package: com.repo.xarold.com
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Amirrezawinjast <amirrezapirzadeh@gmail.com>
+Filename: /appsyncunified.deb
+Size: 29448
+MD5sum: 79D6EB18552A45C7BDC9BF9B3D235755
+SHA1: DD9E5A1F1D34E56985315793688D499A57F6C56F
+SHA256: A3789DE87935C43706CC742D2885FC885275BA8E5EC1561B3AE25C6C7005FE58
+Section: Tweaks
+Description: Test appsync
+Author: Amirrezawinjast <amirrezapirzadeh@gmail.com>
+Name: Appsync(ios11)
